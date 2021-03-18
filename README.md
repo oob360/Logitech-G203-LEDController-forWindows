@@ -1,6 +1,6 @@
 # Logitech G203 Mouse LED controller for Windows
 
-Avoid installing logitech mouse software just to turn off the bright mouse LED. The script also allows for control of the LED color and pattern.
+This script also allows for control of the Logitech G203 mouse LED color and pattern. I made it to avoid installing logitech mouse software just to turn off the bright mouse LED. 
 
 Based on [G203 LED for Linux](https://github.com/smasty/g203-led), but edited to work in Windows instead of Linux.
 
