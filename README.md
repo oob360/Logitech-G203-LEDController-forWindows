@@ -30,4 +30,4 @@ For example, to completely turn off the LED.
 
 ## Todo
 
-1) Automatically plug and unplug the mouse to avoid physical step.
+1) Automate plug and unplug the mouse to avoid physical step.
