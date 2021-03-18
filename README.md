@@ -27,3 +27,7 @@ For example, to completely turn off the LED.
 3) Run: python mouse.py breathe 666666 60000 0
 4) Unplug and replug mouse
 5) Now the mouse LED should not turn on, regardless of what computer you plug it into.
+
+## Todo
+
+1) Automatically plug and unplug the mouse to avoid physical step.
