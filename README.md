@@ -4,7 +4,7 @@ Avoid installing logitech mouse software just to turn off the bright LED on the 
 
 Based on [G203 LED for Linux](https://github.com/smasty/g203-led), but edited to work in Windows instead of Linux.
 
-Essentially, I removed all usage of kernels from the script and added instructions for how to use Zadig usb.
+Essentially, I removed all usage of kernels from the script and added information regarding usage with Windows.
 
 ## Installation
 
