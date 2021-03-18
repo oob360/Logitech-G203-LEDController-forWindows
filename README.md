@@ -8,7 +8,7 @@ Essentially, I removed all usage of kernels from the script and added instructio
 
 ## Installation
 
-1) Install python
+1) Install python so that you can use it in command line.
 2) pip install pyusb
 3) pip install libusb
 4) Move libusb.dll file from "C:\Users\username\AppData\Roaming\Python\Python27\site-packages\libusb\_platform\_windows\x64\"
