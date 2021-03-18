@@ -14,7 +14,7 @@ Essentially, I removed all usage of kernels from the script and added instructio
 4) Move libusb.dll file from "C:\Users\username\AppData\Roaming\Python\Python27\site-packages\libusb\_platform\_windows\x64\"
     to "C:\Windows\System32"
 5) Install Zadig usb
-6) In Zadig usb, install libusb-win32 driver for "interface 1" (LED interface) of mouse. Do not modify mouse "interface 1".
+6) In Zadig usb, install libusb-win32 driver for "interface 1" (LED interface) of mouse. Do not modify mouse "interface 0".
 7) See usage for information on how to use the script.
 
 ## Usage
