@@ -21,7 +21,7 @@ Essentially, I removed all usage of kernels from the script and added instructio
 
 Note: Each time you want to make a modification to the LED control (one script run), you have to physically unplug and replug the mouse to update the driver.
 
-For example, to completely turn off the LED.
+For example, to completely turn off the LED:
 1) Run: python mouse.py intro off
 2) Unplug and replug mouse
 3) Run: python mouse.py breathe 666666 60000 0
